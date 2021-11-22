@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlessioTar
-- 👀 I’m interested in Space Science and astrophysics
+- 👀 I’m interested in Space Science, Astrophysics and basic programming ;)
 - 🌱 I’m currently studiyng Astrophysics and Ccosmology at Bologna university
 - 💞️ I’m looking to collaborate with INAF and/or ASI for Ph.D
 - 📫 How to reach me -------alessio.taranto@studio.unibo.it--------
