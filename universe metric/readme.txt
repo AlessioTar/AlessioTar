@@ -1,0 +1,5 @@
+
+
+This code take observation from 19 cepheid stars and fit their light curves in order to have a complete view on the variation of luminosity along time. After this the period in being estimated and using the P-L relation (Leavitt 1912) and then is possible to derive the absolute magnitude, comparing this with the mean of the light curvewe can use the module distance formula to derive the distance of the stars and the host galaxy. From knowing the distance and the recession velocity (from spectroscopic observations) is easy to found the Hubble constant of expansion of the universe. Once estimated this value and assumed as right the age of the universe misurated by the Plank satellite the only unknown quantities in the energy budget equation are the density of matter, dark matter and dark energy.
+
+Integrating this relation for different value of density that lead all to the same age of universe we can understand what are the possible value for the density and so the possible metric of the universe.
