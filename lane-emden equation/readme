@@ -1,3 +1,4 @@
 Partendo dalle relazioni note di equilibrio idrostatico, equazione della conservazione della massa e dalla relazione politropica tra pressione e densità si è ricavata l’equazione di Lane-Emdem.
-Tale equazione è scritta in una forma differenziale al secondo ordine e lo scopo principale di tale progetto è quello di integrare numericamente tale funzione per trovarne le soluzioni.
-In secondo luogo dalle soluzioni trovate si possono derivare altre proprietà in funzione di esse.
+Tale equazione è scritta in una forma differenziale al secondo ordine e lo scopo principale di tale progetto è quello di integrare numericamente tale funzione per trovarne le soluzioni. In secondo luogo dalle soluzioni trovate si possono derivare altre proprietà in funzione di esse.
+
+l'integrazione di questa equazione è stata fatta utilizzando un metodo di runge kutta al quarto ordine, ripetendolo con due diversi passi di integrazione per valutarne la precisione. I dati riportati si limitano al caso fatto con passo 1:200 ma con un semplice print all'interno del ciclo è possibile vedere anche gli altri errori. 
